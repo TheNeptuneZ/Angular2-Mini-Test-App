@@ -1,6 +1,9 @@
 Angular 2 Mini app
 ====================
-### This application was made to test the 'Toastr APi ( **you can find the demo [here](http://codeseven.github.io/toastr/demo.html)** ) '
+### This application was made to test :
+
+*	Angular fundamentals : `Components communication` `Services` `Events handling` `Routing` ... 
+*	'Toastr APi ( **you can find the demo [here](http://codeseven.github.io/toastr/demo.html)** ) '
 
 Steps to run the application:
 =============================

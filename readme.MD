@@ -1,4 +1,4 @@
-Angular 2 Mini app
+Angular 2 Mini tuto app
 ====================
 ### This application was made to test :
 

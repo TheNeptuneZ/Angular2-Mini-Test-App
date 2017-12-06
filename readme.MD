@@ -14,4 +14,6 @@ Steps to run the application:
 *	npm install toastr --save
 *	npm start
 
+Please notify me if you find bugs.
+
 
